@@ -1,0 +1,3 @@
+﻿  MyArray.cpp
+MyArray.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl person::person(void)" (??0person@@QEAA@XZ)，函数 "public: __cdecl MyArray<class person>::MyArray<class person>(int)" (??0?$MyArray@Vperson@@@@QEAA@H@Z) 中引用了该符号
+F:\C++自我学习\类模板案例\x64\Debug\类模板案例.exe : fatal error LNK1120: 1 个无法解析的外部命令
